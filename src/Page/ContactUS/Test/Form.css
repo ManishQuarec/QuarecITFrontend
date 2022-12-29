@@ -1,0 +1,35 @@
+.testMargin {
+  border: white 1px solid;
+  margin-top: 8%;
+  height: 400px;
+  width: 50%;
+  margin-left: 30%;
+  background-color: rgba(2, 68, 119, 0.5);
+  border-radius: 2%;
+  opacity: 100%;
+  
+}
+
+.testMargin img {
+  border: #17cef6;
+  height: 28%;
+  width: 30%;
+  margin-top: 2%;
+  margin-left: 35%;
+  margin-right: 65%;
+  display:flex;
+}
+.setText {
+    /* display: block ; */
+    color: white;
+    font-family: 'Optima nova LT Pro';
+    text-align: center;
+}
+.picsName {
+    font-size: 120%;
+}
+.picsContent {
+    padding: 2%;
+    margin-top: 3%;
+}
+
